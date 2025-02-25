@@ -1,0 +1,202 @@
+[
+    {
+        "courseId": "C001",
+        "courseName": "Business Strategy Essentials",
+        "courseDescription": "Learn the fundamentals of business strategy and market analysis.",
+        "courseLink": "https://example.com/courses/business-strategy-essentials",
+        "completionStatus": 80,
+        "keySkills": ["Market Analysis", "Strategic Planning", "Business Model Design"],
+        "createdAt": "2023-01-15T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C002",
+        "courseName": "Effective Leadership",
+        "courseDescription": "Develop your leadership skills and learn how to manage teams effectively.",
+        "courseLink": "https://example.com/courses/effective-leadership",
+        "completionStatus": 60,
+        "keySkills": ["Team Management", "Emotional Intelligence", "Conflict Resolution"],
+        "createdAt": "2023-02-20T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C003",
+        "courseName": "Digital Marketing Mastery",
+        "courseDescription": "Master the art of digital marketing and learn effective sales tactics.",
+        "courseLink": "https://example.com/courses/digital-marketing-mastery",
+        "completionStatus": 90,
+        "keySkills": ["Digital Marketing", "SEO & SEM", "Content Marketing"],
+        "createdAt": "2023-03-10T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C004",
+        "courseName": "Public Speaking for Professionals",
+        "courseDescription": "Enhance your public speaking and communication skills.",
+        "courseLink": "https://example.com/courses/public-speaking-for-professionals",
+        "completionStatus": 70,
+        "keySkills": ["Public Speaking", "Active Listening", "Presentation Skills"],
+        "createdAt": "2023-04-05T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C005",
+        "courseName": "Introduction to Data Science",
+        "courseDescription": "Get started with data science and learn key analytical skills.",
+        "courseLink": "https://example.com/courses/introduction-to-data-science",
+        "completionStatus": 85,
+        "keySkills": ["Data Science", "Statistics", "Data Analysis"],
+        "createdAt": "2023-05-15T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C006",
+        "courseName": "Web Development Bootcamp",
+        "courseDescription": "Become a full-stack web developer with this comprehensive course.",
+        "courseLink": "https://example.com/courses/web-development-bootcamp",
+        "completionStatus": 50,
+        "keySkills": ["Web Development", "Coding", "App Development"],
+        "createdAt": "2023-06-20T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C007",
+        "courseName": "Financial Planning Basics",
+        "courseDescription": "Learn the essentials of financial planning and budgeting.",
+        "courseLink": "https://example.com/courses/financial-planning-basics",
+        "completionStatus": 75,
+        "keySkills": ["Financial Planning", "Budget Management", "Risk Management"],
+        "createdAt": "2023-07-10T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C008",
+        "courseName": "Project Management Fundamentals",
+        "courseDescription": "Understand the principles of project management and resource allocation.",
+        "courseLink": "https://example.com/courses/project-management-fundamentals",
+        "completionStatus": 65,
+        "keySkills": ["Project Planning", "Resource Allocation", "Risk Management"],
+        "createdAt": "2023-08-15T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C009",
+        "courseName": "Creative Writing Workshop",
+        "courseDescription": "Explore the art of storytelling and improve your writing skills.",
+        "courseLink": "https://example.com/courses/creative-writing-workshop",
+        "completionStatus": 80,
+        "keySkills": ["Creative Writing", "Presentation Skills", "Public Speaking"],
+        "createdAt": "2023-09-01T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C010",
+        "courseName": "Health and Wellness Coaching",
+        "courseDescription": "Learn how to promote health and well-being in your community.",
+        "courseLink": "https://example.com/courses/health-and-wellness-coaching",
+        "completionStatus": 55,
+        "keySkills": ["Stress Management", "Mental Health", "Healthy Eating"],
+        "createdAt": "2023-09-15T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C011",
+        "courseName": "Advanced Risk Management",
+        "courseDescription": "Deep dive into risk management strategies for businesses.",
+        "courseLink": "https://example.com/courses/advanced-risk-management",
+        "completionStatus": 40,
+        "keySkills": ["Risk Management", "Financial Planning", "Business Forecasting"],
+        "createdAt": "2023-10-01T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C012",
+        "courseName": "Emotional Intelligence in Leadership",
+        "courseDescription": "Enhance your leadership skills through emotional intelligence.",
+        "courseLink": "https://example.com/courses/emotional-intelligence-in-leadership",
+        "completionStatus": 65,
+        "keySkills": ["Emotional Intelligence", "Conflict Resolution", "Team Management"],
+        "createdAt": "2023-10-05T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C013",
+        "courseName": "SEO Strategies for Beginners",
+        "courseDescription": "Learn the basics of SEO and how to improve website visibility.",
+        "courseLink": "https://example.com/courses/seo-strategies-for-beginners",
+        "completionStatus": 70,
+        "keySkills": ["SEO & SEM", "Digital Marketing", "Content Marketing"],
+        "createdAt": "2023-10-10T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C014",
+        "courseName": "Data Analysis with Python",
+        "courseDescription": "Learn how to analyze data using Python programming.",
+        "courseLink": "https://example.com/courses/data-analysis-with-python",
+        "completionStatus": 85,
+        "keySkills": ["Data Analysis", "Python", "Statistics"],
+        "createdAt": "2023-10-15T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C015",
+        "courseName": "Introduction to Blockchain Technology",
+        "courseDescription": "Understand the fundamentals of blockchain and its applications.",
+        "courseLink": "https://example.com/courses/introduction-to-blockchain-technology",
+        "completionStatus": 50,
+        "keySkills": ["Blockchain Technology", "Data Science", "Cybersecurity"],
+        "createdAt": "2023-10-20T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C016",
+        "courseName": "Crisis Management Strategies",
+        "courseDescription": "Learn how to effectively manage crises in organizations.",
+        "courseLink": "https://example.com/courses/crisis-management-strategies",
+        "completionStatus": 60,
+        "keySkills": ["Crisis Management", "Decision Making", "Change Management"],
+        "createdAt": "2023-10-25T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C017",
+        "courseName": "Creative Problem Solving",
+        "courseDescription": "Enhance your problem-solving skills through creative techniques.",
+        "courseLink": "https://example.com/courses/creative-problem-solving",
+        "completionStatus": 75,
+        "keySkills": ["Creativity", "Critical Thinking", "Problem Solving"],
+        "createdAt": "2023-10-30T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C018",
+        "courseName": "Yoga and Mindfulness Practices",
+        "courseDescription": "Explore yoga and mindfulness techniques for well-being.",
+        "courseLink": "https://example.com/courses/yoga-and-mindfulness-practices",
+        "completionStatus": 80,
+        "keySkills": ["Yoga & Meditation", "Mindfulness", "Stress Management"],
+        "createdAt": "2023-11-01T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C019",
+        "courseName": "Advanced Web Development",
+        "courseDescription": "Build upon your web development skills with advanced techniques and frameworks.",
+        "courseLink": "https://example.com/courses/advanced-web-development",
+        "completionStatus": 65,
+        "keySkills": ["Web Development", "App Development", "Coding"],
+        "createdAt": "2023-11-05T10:00:00Z",
+        "updatedAt": "2023-10-01T12:00:00Z"
+    },
+    {
+        "courseId": "C020",
+        "courseName": "Financial Analysis Techniques",
+        "courseDescription": "Learn various techniques for analyzing financial data.",
+        "courseLink": "https://example.com/courses/financial-analysis-techniques",
+        "completionStatus": 70,
+        "keySkills": ["Financial Analysis", "Risk Assessment", "Budget Management"],
+        "createdAt": "2023-11-10T10:00:00Z",
+        "updatedAt": "2023 -11-01T12:00:00Z"
+    }
+]

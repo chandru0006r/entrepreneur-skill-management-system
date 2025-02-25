@@ -1,0 +1,55 @@
+/* Smooth fade-in animation for UI elements */
+.fade-in {
+    opacity: 0;
+    transform: translateY(10px);
+    animation: fadeIn 0.6s ease-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Subtle scale-up effect on hover */
+  .scale-hover {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .scale-hover:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Button hover effect */
+  button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    filter: brightness(1.2);
+  }
+  
+  /* Smooth background transition */
+  button:hover,
+  button:focus {
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  /* AI suggestion box animation */
+  .ai-suggestions {
+    opacity: 0;
+    transform: translateY(10px);
+    animation: fadeIn 0.5s ease-out forwards;
+    animation-delay: 0.2s;
+  }
+  
+  /* Adding a subtle glow to the selected buttons */
+  .selected {
+    box-shadow: 0 0 10px rgba(200, 121, 29, 0.8);
+  }
+  
